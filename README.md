@@ -4,6 +4,8 @@ Audiophile Home Theater Server Distribution
 (Experimental)
 In 2023 we created an alternate and experimental version of our distribution (MediaLounge) to include Kodi Home Theater software to take benefit of your audio and video system. This distribution contains all audiophile services of MusicLounge with the addition of Kodi 20.1 home theater software.
 
+<img src="https://github.com/linuxaudiofoundation/medialounge/blob/main/medialounge_audio_home_theater_server.png" width=50% height=50%>
+
 # 
 
 Read and understand our terms and conditions of use:
